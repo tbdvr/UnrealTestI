@@ -954,3 +954,273 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.02.16-18.19.06:677][ 58]LogSlate: Window 'Message Log' being destroyed
 [2019.02.16-18.19.10:594][506]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/ThirdPersonExampleMap32CF7FCF4C5CFD3B5709A8A5D6FA579E.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.02.16-18.19.10:741][506]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/ThirdPersonExampleMap_BuiltData100D8F59406FCC8B8D60768FD52B7CB8.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.02.16-18.29.10:756][467]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.021
+[2019.02.16-18.29.10:759][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PAPERMAN/PAPERMAN1thin] ([1] browsable assets)...
+[2019.02.16-18.29.10:784][467]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PAPERMAN/PAPERMAN1thin.PAPERMAN1thin]
+[2019.02.16-18.29.10:784][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/PAPERMAN/PAPERMAN1thin]
+[2019.02.16-18.29.10:889][467]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMAN1thin_Auto10534F0824CC08255FAE8F5A3ADAE4AFA.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Autosaves/Game/PAPERMAN/PAPERMAN1thin_Auto1.uasset'
+[2019.02.16-18.29.10:891][467]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PAPERMAN/PAPERMAN1thin_Skeleton] ([1] browsable assets)...
+[2019.02.16-18.29.10:891][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/PAPERMAN/PAPERMAN1thin_Skeleton]
+[2019.02.16-18.29.10:897][467]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMAN1thin_Skeleton_Auto1F091259746177DA8C02D58B359C00000.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Autosaves/Game/PAPERMAN/PAPERMAN1thin_Skeleton_Auto1.uasset'
+[2019.02.16-18.29.10:899][467]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PAPERMAN/PAPERMAN1thin_PhysicsAsset] ([1] browsable assets)...
+[2019.02.16-18.29.10:920][467]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PAPERMAN/PAPERMAN1thin_PhysicsAsset.PAPERMAN1thin_PhysicsAsset]
+[2019.02.16-18.29.10:920][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/PAPERMAN/PAPERMAN1thin_PhysicsAsset]
+[2019.02.16-18.29.10:937][467]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMAN1thin_PhysicsAsset_Auto143CF6BEA4C3F48F92BA6AD9C7CAA459B.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Autosaves/Game/PAPERMAN/PAPERMAN1thin_PhysicsAsset_Auto1.uasset'
+[2019.02.16-18.29.10:937][467]LogFileHelpers: Auto-saving content packages took 0.179
+[2019.02.16-20.42.03:474][736]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.16-20.42.05:472][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-20.45.30:047][747]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Run Forward.fbx)
+[2019.02.16-20.45.30:064][747]LogFbx: Loading FBX Scene from ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Run Forward.fbx
+[2019.02.16-20.45.30:076][747]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.16-20.45.39:476][747]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.16-20.45.39:508][747]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Happy Walk.fbx)
+[2019.02.16-20.45.39:521][747]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Happy Idle.fbx)
+[2019.02.16-20.45.42:969][850]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/PAPERMAN1thin.fbx)
+[2019.02.16-20.45.42:983][850]LogFbx: Loading FBX Scene from ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/PAPERMAN1thin.fbx
+[2019.02.16-20.45.43:014][850]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.16-20.45.44:415][850]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.16-20.45.54:653][996]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Run Forward.fbx)
+[2019.02.16-20.45.54:665][996]LogFbx: Loading FBX Scene from ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Run Forward.fbx
+[2019.02.16-20.45.54:677][996]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.16-20.46.02:120][996]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(0) Hips
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(1) Spine
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(2) Spine1
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(3) Spine2
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(4) Neck
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(5) Head
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(8) LeftArm
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(10) LeftHand
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(11) RightShoulder
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(12) RightArm
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(13) RightForeArm
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(14) RightHand
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(15) LeftUpLeg
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(16) LeftLeg
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(17) LeftFoot
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(18) LeftToeBase
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(19) LeftToe_End
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(20) RightUpLeg
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(21) RightLeg
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(22) RightFoot
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(23) RightToeBase
+[2019.02.16-20.46.02:141][996]LogFbx: SortedLinks :(24) RightToe_End
+[2019.02.16-20.46.02:141][996]LogFbx: Parsing AnimStack mixamo.com
+[2019.02.16-20.46.02:144][996]LogLinker: Can't find file '/Game/PAPERMAN/Animations/Run_Forward'
+[2019.02.16-20.46.02:145][996]LogLinker: Can't find file '/Game/PAPERMAN/Animations/Run_Forward'
+[2019.02.16-20.46.02:199][996]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PAPERMAN/Animations/Run_Forward.Run_Forward
+[2019.02.16-20.46.02:200][996]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.16-20.46.02:214][996]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Happy Walk.fbx)
+[2019.02.16-20.46.02:227][996]LogFbx: Loading FBX Scene from ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Happy Walk.fbx
+[2019.02.16-20.46.02:238][996]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(0) Hips
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(1) Spine
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(2) Spine1
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(3) Spine2
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(4) Neck
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(5) Head
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(8) LeftArm
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(10) LeftHand
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(11) RightShoulder
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(12) RightArm
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(13) RightForeArm
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(14) RightHand
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(15) LeftUpLeg
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(16) LeftLeg
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(17) LeftFoot
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(18) LeftToeBase
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(19) LeftToe_End
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(20) RightUpLeg
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(21) RightLeg
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(22) RightFoot
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(23) RightToeBase
+[2019.02.16-20.46.02:240][996]LogFbx: SortedLinks :(24) RightToe_End
+[2019.02.16-20.46.02:240][996]LogFbx: Parsing AnimStack mixamo.com
+[2019.02.16-20.46.02:241][996]LogLinker: Can't find file '/Game/PAPERMAN/Animations/Happy_Walk'
+[2019.02.16-20.46.02:242][996]LogLinker: Can't find file '/Game/PAPERMAN/Animations/Happy_Walk'
+[2019.02.16-20.46.02:294][996]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PAPERMAN/Animations/Happy_Walk.Happy_Walk
+[2019.02.16-20.46.02:295][996]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Happy_Walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.16-20.46.02:303][996]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Happy Idle.fbx)
+[2019.02.16-20.46.02:313][996]LogFbx: Loading FBX Scene from ../../../../../../Users/Urban/Desktop/PAPERMANUNREAL/Animations/Happy Idle.fbx
+[2019.02.16-20.46.02:325][996]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(0) Hips
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(1) Spine
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(2) Spine1
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(3) Spine2
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(4) Neck
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(5) Head
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(8) LeftArm
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(10) LeftHand
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(11) RightShoulder
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(12) RightArm
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(13) RightForeArm
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(14) RightHand
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(15) LeftUpLeg
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(16) LeftLeg
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(17) LeftFoot
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(18) LeftToeBase
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(19) LeftToe_End
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(20) RightUpLeg
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(21) RightLeg
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(22) RightFoot
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(23) RightToeBase
+[2019.02.16-20.46.02:326][996]LogFbx: SortedLinks :(24) RightToe_End
+[2019.02.16-20.46.02:327][996]LogFbx: Parsing AnimStack mixamo.com
+[2019.02.16-20.46.02:328][996]LogLinker: Can't find file '/Game/PAPERMAN/Animations/Happy_Idle'
+[2019.02.16-20.46.02:328][996]LogLinker: Can't find file '/Game/PAPERMAN/Animations/Happy_Idle'
+[2019.02.16-20.46.02:413][996]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PAPERMAN/Animations/Happy_Idle.Happy_Idle
+[2019.02.16-20.46.02:414][996]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Happy_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.16-20.46.14:527][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.02.16-20.46.15:847][284]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.16-20.46.20:926][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-20.46.32:747][887]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.02.16-20.46.32:833][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-20.46.35:319][119]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/PAPERMAN/NewBlendSpace.NewBlendSpace
+[2019.02.16-20.46.35:333][119]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.16-20.46.35:561][119]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.16-20.46.35:564][119]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.02.16-20.46.35:612][119]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.16-20.46.35:900][119]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.02.16-20.46.35:913][119]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.16-20.46.39:377][379]LogSlate: Window 'NewBlendSpace*' being destroyed
+[2019.02.16-20.46.39:381][379]LogSlate: Window 'NewBlendSpace*' being destroyed
+[2019.02.16-20.46.45:580][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMANBS" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANBS.uasset" SILENT=true
+[2019.02.16-20.46.45:596][884]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMANBS46351E024C2329B2A3B0B0B3507874B3.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANBS.uasset'
+[2019.02.16-20.46.48:955][144]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/PAPERMAN/PAPERMANBS.PAPERMANBS
+[2019.02.16-20.46.48:963][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.16-20.46.48:992][144]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.16-20.46.49:268][144]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.16-20.50.10:750][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMANBS" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANBS.uasset" SILENT=true
+[2019.02.16-20.50.10:774][939]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMANBSEC13E4D541962282BFB1CAAE19D6A366.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANBS.uasset'
+[2019.02.16-20.50.12:070][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMANBS" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANBS.uasset" SILENT=true
+[2019.02.16-20.50.12:082][ 39]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMANBSE120B6B44813BD180849C6955D187C42.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANBS.uasset'
+[2019.02.16-20.50.15:156][279]LogSlate: Window 'PAPERMANBS' being destroyed
+[2019.02.16-20.50.15:160][279]LogSlate: Window 'PAPERMANBS' being destroyed
+[2019.02.16-20.50.16:545][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.02.16-20.50.17:965][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-20.50.20:895][870]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.02.16-20.50.23:583][870]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.02.16-20.50.31:359][681]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PAPERMAN/PAPERMANANIM.PAPERMANANIM
+[2019.02.16-20.50.31:377][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.16-20.50.31:799][681]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.02.16-20.50.32:444][681]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.16-20.50.32:685][681]LogSlate: Took 0.006577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.16-20.50.53:022][569]LogSlate: Took 0.004502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.16-20.52.38:580][133]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.16-20.56.42:697][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.036
+[2019.02.16-20.56.42:699][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PAPERMAN/Animations/Run_Forward] ([1] browsable assets)...
+[2019.02.16-20.56.42:712][119]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PAPERMAN/Animations/Run_Forward.Run_Forward]
+[2019.02.16-20.56.42:712][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/PAPERMAN/Animations/Run_Forward]
+[2019.02.16-20.56.42:728][119]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Run_Forward_Auto2905C5FFF485052FB4CA07A85B54A09FA.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Autosaves/Game/PAPERMAN/Animations/Run_Forward_Auto2.uasset'
+[2019.02.16-20.56.42:729][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PAPERMAN/Animations/Happy_Walk] ([1] browsable assets)...
+[2019.02.16-20.56.42:741][119]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PAPERMAN/Animations/Happy_Walk.Happy_Walk]
+[2019.02.16-20.56.42:741][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/PAPERMAN/Animations/Happy_Walk]
+[2019.02.16-20.56.42:759][119]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Happy_Walk_Auto22B9536C54963453455E1749010799289.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Autosaves/Game/PAPERMAN/Animations/Happy_Walk_Auto2.uasset'
+[2019.02.16-20.56.42:760][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PAPERMAN/Animations/Happy_Idle] ([1] browsable assets)...
+[2019.02.16-20.56.42:772][119]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/PAPERMAN/Animations/Happy_Idle.Happy_Idle]
+[2019.02.16-20.56.42:773][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/PAPERMAN/Animations/Happy_Idle]
+[2019.02.16-20.56.42:790][119]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Happy_Idle_Auto2283A5CE448D198D5E21B8FB11D533E9F.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Autosaves/Game/PAPERMAN/Animations/Happy_Idle_Auto2.uasset'
+[2019.02.16-20.56.42:791][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PAPERMAN/PAPERMANANIM] ([1] browsable assets)...
+[2019.02.16-20.56.42:802][119]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/PAPERMAN/PAPERMANANIM.PAPERMANANIM]
+[2019.02.16-20.56.42:802][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/PAPERMAN/PAPERMANANIM]
+[2019.02.16-20.56.42:829][119]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMANANIM_Auto25EA5C7DD432F1273D6948FAF9B8119D5.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Autosaves/Game/PAPERMAN/PAPERMANANIM_Auto2.uasset'
+[2019.02.16-20.56.42:831][119]LogFileHelpers: Auto-saving content packages took 0.132
+[2019.02.16-20.58.17:313][907]BlueprintLog: New page: Compile PAPERMANANIM
+[2019.02.16-20.58.17:321][907]LogBlueprint: Warning: [Compiler PAPERMANANIM] Cast To ThirdPersonCharacter  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.16-20.58.17:465][907]LogBlueprint: Warning: [Compiler PAPERMANANIM] [9644.01] Compile of PAPERMANANIM successful, but with 1 Warning(s) [in 152 ms] (/Game/PAPERMAN/PAPERMANANIM.PAPERMANANIM)
+[2019.02.16-20.59.17:567][415]BlueprintLog: New page: Compile PAPERMANANIM
+[2019.02.16-20.59.22:850][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMANANIM" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANANIM.uasset" SILENT=true
+[2019.02.16-20.59.22:880][906]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMANANIMF9129F5C453E3ECBD4D2B8AC2AE5EBB2.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANANIM.uasset'
+[2019.02.16-20.59.24:009][  9]LogSlate: Window 'PAPERMANANIM' being destroyed
+[2019.02.16-20.59.24:014][  9]LogSlate: Window 'PAPERMANANIM' being destroyed
+[2019.02.16-20.59.27:172][361]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.16-20.59.30:104][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-20.59.31:644][824]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton PAPERMAN1thin_Skeleton, removing AnimBP from actor.
+[2019.02.16-20.59.32:488][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-20.59.33:650][ 57]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.16-20.59.36:869][434]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.16-20.59.36:878][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.16-20.59.36:878][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.16-20.59.36:879][434]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 16, 2019, 6:59:36 AM)
+[2019.02.16-20.59.36:891][434]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.16-20.59.36:905][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013971s)
+[2019.02.16-20.59.36:906][434]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.16-20.59.36:906][434]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2019.02.16-20.59.36:906][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015090s)
+[2019.02.16-20.59.36:999][434]LogInit: XAudio2 using 'Speakers (JBL Xtreme 2 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.16-20.59.37:013][434]LogInit: FAudioDevice initialized.
+[2019.02.16-20.59.37:114][434]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.16-20.59.37:115][434]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.16-13.59.37
+[2019.02.16-20.59.37:116][434]LogWorld: Bringing up level for play took: 0.001305
+[2019.02.16-20.59.37:136][434]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.02.16-20.59.37:138][434]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.004
+[2019.02.16-20.59.37:138][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.16-20.59.42:583][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.16-20.59.42:583][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.16-20.59.42:618][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.16-20.59.42:618][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.16-20.59.42:646][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.16-20.59.42:688][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.02.16-20.59.47:790][700]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.02.16-20.59.52:619][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-20.59.52:785][238]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/PAPERMAN/PAPERMANANIM.PAPERMANANIM
+[2019.02.16-20.59.52:796][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.16-20.59.53:009][238]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.16-20.59.53:287][238]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.16-21.01.26:556][153]BlueprintLog: New page: Compile PAPERMANANIM
+[2019.02.16-21.01.29:215][341]LogSlate: Window 'PAPERMANANIM*' being destroyed
+[2019.02.16-21.01.29:220][341]LogSlate: Window 'PAPERMANANIM*' being destroyed
+[2019.02.16-21.01.31:729][597]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.16-21.01.31:738][597]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.16-21.01.31:738][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.16-21.01.31:738][597]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 16, 2019, 7:01:31 AM)
+[2019.02.16-21.01.31:738][597]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.16-21.01.31:759][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020835s)
+[2019.02.16-21.01.31:760][597]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.16-21.01.31:761][597]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2019.02.16-21.01.31:761][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022286s)
+[2019.02.16-21.01.31:863][597]LogInit: XAudio2 using 'Speakers (JBL Xtreme 2 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.16-21.01.31:874][597]LogInit: FAudioDevice initialized.
+[2019.02.16-21.01.31:905][597]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.16-21.01.31:907][597]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.16-14.01.31
+[2019.02.16-21.01.31:908][597]LogWorld: Bringing up level for play took: 0.001071
+[2019.02.16-21.01.31:921][597]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.213
+[2019.02.16-21.01.31:921][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.16-21.02.28:644][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.16-21.02.28:644][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.16-21.02.28:682][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.16-21.02.28:682][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.16-21.02.28:709][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.16-21.02.28:751][398]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.02.16-21.02.29:971][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-21.02.30:305][557]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/ThirdPersonExampleMap25B40E8E489D3A7C1DFD2888D9A67128.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.02.16-21.02.30:472][557]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/ThirdPersonExampleMap_BuiltData90A43C8B42A5957FE82062A9B15C8831.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.02.16-21.02.39:519][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-21.02.39:792][644]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/ThirdPersonExampleMap52C7CEAB41E3F798237178BA80228F1A.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.02.16-21.02.39:940][644]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/ThirdPersonExampleMap_BuiltData646291B140B3951D31FB46A5484FF1ED.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.02.16-21.02.47:517][521]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/ThirdPersonExampleMap946E36F24005AC3CA802F49E61BCF676.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.02.16-21.02.47:666][521]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/ThirdPersonExampleMap_BuiltData473809CC4441AA27B9B39CAB49A97378.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.02.16-21.04.14:559][311]LogSlate: Window 'Save Level As' being destroyed
+[2019.02.16-21.04.21:570][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMAN1thin" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMAN1thin.uasset" SILENT=true
+[2019.02.16-21.04.21:671][145]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMAN1thin1329BAA54DE8422F4F860DB2A234FB7A.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMAN1thin.uasset'
+[2019.02.16-21.04.21:680][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMAN1thin_Skeleton" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMAN1thin_Skeleton.uasset" SILENT=true
+[2019.02.16-21.04.21:689][145]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMAN1thin_Skeleton76952D524300C91069EC27816B0FF277.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMAN1thin_Skeleton.uasset'
+[2019.02.16-21.04.21:710][145]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMAN1thin_PhysicsAsset450C97164DFAECF73DD376B37F968847.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMAN1thin_PhysicsAsset.uasset'
+[2019.02.16-21.04.21:719][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/Animations/Run_Forward" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/Animations/Run_Forward.uasset" SILENT=true
+[2019.02.16-21.04.21:727][145]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Run_Forward196A754848D3AC99975B6C8ECFDE11B8.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/Animations/Run_Forward.uasset'
+[2019.02.16-21.04.21:735][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/Animations/Happy_Walk" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/Animations/Happy_Walk.uasset" SILENT=true
+[2019.02.16-21.04.21:744][145]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Happy_WalkA457D00A4D71A14457DC3897FA040446.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/Animations/Happy_Walk.uasset'
+[2019.02.16-21.04.21:753][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/Animations/Happy_Idle" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/Animations/Happy_Idle.uasset" SILENT=true
+[2019.02.16-21.04.21:761][145]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/Happy_Idle52531C674D58404385FB10BE5DA66761.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/Animations/Happy_Idle.uasset'
+[2019.02.16-21.04.21:783][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PAPERMAN/PAPERMANANIM" FILE="../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANANIM.uasset" SILENT=true
+[2019.02.16-21.04.21:816][145]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Saved/PAPERMANANIM52981F4048F425BF3D25ACA5981335B9.tmp' to '../../../../../../Users/Urban/Documents/GitHub/GENESISUNREALI/TESTI/Content/PAPERMAN/PAPERMANANIM.uasset'
+[2019.02.16-21.04.39:127][505]LogSlate: Window 'Save Level As' being destroyed
