@@ -1157,3 +1157,164 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2019.02.18-08.18.25:768][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.02.18-08.18.26:059][360]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/MotionControllerMap084A5D9345F14F893FEEE1B1E0800B48.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
 [2019.02.18-08.18.26:165][360]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/MotionControllerMap_BuiltDataEE9311DF48CBC58634CC08AD179C61E0.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.02.18-08.28.26:326][ 29]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.022
+[2019.02.18-08.28.26:329][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin_Skeleton] ([1] browsable assets)...
+[2019.02.18-08.28.26:330][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin_Skeleton]
+[2019.02.18-08.28.26:338][ 29]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/PAPERMAN1thin_Skeleton_Auto1B936A3CC43605FE5AC57F8BDE11EB15C.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Autosaves/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin_Skeleton_Auto1.uasset'
+[2019.02.18-08.28.26:340][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin] ([1] browsable assets)...
+[2019.02.18-08.28.26:359][ 29]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Geometry/Meshes/PaperMan/PAPERMAN1thin.PAPERMAN1thin]
+[2019.02.18-08.28.26:359][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin]
+[2019.02.18-08.28.26:469][ 29]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/PAPERMAN1thin_Auto133C4364744AF3DCB9134B4A346DB08DB.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Autosaves/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin_Auto1.uasset'
+[2019.02.18-08.28.26:470][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin_PhysicsAsset] ([1] browsable assets)...
+[2019.02.18-08.28.26:487][ 29]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Geometry/Meshes/PaperMan/PAPERMAN1thin_PhysicsAsset.PAPERMAN1thin_PhysicsAsset]
+[2019.02.18-08.28.26:487][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin_PhysicsAsset]
+[2019.02.18-08.28.26:504][ 29]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/PAPERMAN1thin_PhysicsAsset_Auto17711B223439521732B3BA989F04491A2.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Autosaves/Game/Geometry/Meshes/PaperMan/PAPERMAN1thin_PhysicsAsset_Auto1.uasset'
+[2019.02.18-08.28.26:506][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/PaperMan/Animations/Run_Forward] ([1] browsable assets)...
+[2019.02.18-08.28.26:524][ 29]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Geometry/Meshes/PaperMan/Animations/Run_Forward.Run_Forward]
+[2019.02.18-08.28.26:524][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/PaperMan/Animations/Run_Forward]
+[2019.02.18-08.28.26:543][ 29]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Run_Forward_Auto1840D04C847BBD6FBADAF07A997306D93.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Autosaves/Game/Geometry/Meshes/PaperMan/Animations/Run_Forward_Auto1.uasset'
+[2019.02.18-08.28.26:544][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/PaperMan/Animations/Happy_Walk] ([1] browsable assets)...
+[2019.02.18-08.28.26:562][ 29]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Geometry/Meshes/PaperMan/Animations/Happy_Walk.Happy_Walk]
+[2019.02.18-08.28.26:562][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/PaperMan/Animations/Happy_Walk]
+[2019.02.18-08.28.26:580][ 29]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Happy_Walk_Auto12818DE634A20131BCD6C1C9B96303E46.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Autosaves/Game/Geometry/Meshes/PaperMan/Animations/Happy_Walk_Auto1.uasset'
+[2019.02.18-08.28.26:581][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/PaperMan/Animations/Happy_Idle] ([1] browsable assets)...
+[2019.02.18-08.28.26:598][ 29]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Geometry/Meshes/PaperMan/Animations/Happy_Idle.Happy_Idle]
+[2019.02.18-08.28.26:598][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/PaperMan/Animations/Happy_Idle]
+[2019.02.18-08.28.26:616][ 29]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Happy_Idle_Auto137326E2145F5F97BAF303C90A20C0138.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Autosaves/Game/Geometry/Meshes/PaperMan/Animations/Happy_Idle_Auto1.uasset'
+[2019.02.18-08.28.26:618][ 29]LogFileHelpers: Auto-saving content packages took 0.289
+[2019.02.18-08.29.32:340][353]AssetReimport: New page: Outstanding source content changes 6:29:32 PM
+[2019.02.18-08.29.32:344][353]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/PAPERMAN1thin.fbx)
+[2019.02.18-08.29.32:347][353]LogEditorFactories: Performing atomic reimport of [C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/PAPERMAN1thin.fbx]
+[2019.02.18-08.29.32:357][353]LogFbx: Loading FBX Scene from C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/PAPERMAN1thin.fbx
+[2019.02.18-08.29.32:387][353]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.18-08.29.32:388][353]LogFbx: =================================================
+[2019.02.18-08.29.32:388][353]LogFbx: Dumping Node START [Curve_CUpath20] 
+[2019.02.18-08.29.32:388][353]LogFbx: 	Total Deformer Count 626827936.
+[2019.02.18-08.29.32:388][353]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.18-08.29.32:388][353]LogFbx: =================================================
+[2019.02.18-08.29.32:388][353]LogFbx: 	Attribute (Curve_CUpath20mesh) Type (4).
+[2019.02.18-08.29.32:388][353]LogFbx: 		[Node Attribute Child 1] Curve_CUpath20 (Type Mesh).
+[2019.02.18-08.29.32:388][353]LogFbx: Dumping Node END [Curve_CUpath20]
+[2019.02.18-08.29.32:388][353]LogFbx: =================================================
+[2019.02.18-08.29.32:388][353]LogFbx: Dumping Node START [Curve_CUpath20] 
+[2019.02.18-08.29.32:388][353]LogFbx: 	Total Deformer Count 626827936.
+[2019.02.18-08.29.32:388][353]LogFbx: 		[Node 1] Skin (Type Skin).
+[2019.02.18-08.29.32:388][353]LogFbx: =================================================
+[2019.02.18-08.29.32:388][353]LogFbx: 	Attribute (Curve_CUpath20mesh) Type (4).
+[2019.02.18-08.29.32:388][353]LogFbx: 		[Node Attribute Child 1] Curve_CUpath20 (Type Mesh).
+[2019.02.18-08.29.32:388][353]LogFbx: Dumping Node END [Curve_CUpath20]
+[2019.02.18-08.29.32:390][353]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Curve_CUpath20
+[2019.02.18-08.29.32:393][353]LogFbx: Triangulating skeletal mesh Curve_CUpath20
+[2019.02.18-08.29.38:147][353]LogSkeletalMesh: Section 0: 45766 vertices, 21 active bones
+[2019.02.18-08.29.38:153][353]LogSkeletalMesh: Section 0: Material=0, 91528 triangles
+[2019.02.18-08.29.38:155][353]LogSkeletalMesh: Building Skeletal Mesh PAPERMAN1thin...
+[2019.02.18-08.29.38:273][353]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/Geometry/Meshes/PaperMan/PAPERMAN1thin.PAPERMAN1thin
+[2019.02.18-08.29.38:287][353]LogEditorFactories: -- imported successfully
+[2019.02.18-08.29.38:298][353]LogSkeletalMesh: Building Skeletal Mesh PAPERMAN1thin...
+[2019.02.18-08.29.38:412][353]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/Geometry/Meshes/PaperMan/PAPERMAN1thin.PAPERMAN1thin
+[2019.02.18-08.29.38:426][353]LogSkeletalMesh: Building Skeletal Mesh PAPERMAN1thin...
+[2019.02.18-08.29.38:534][353]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/Geometry/Meshes/PaperMan/PAPERMAN1thin.PAPERMAN1thin
+[2019.02.18-08.29.38:586][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Happy Idle.fbx)
+[2019.02.18-08.29.38:594][354]LogFbx: Loading FBX Scene from C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Happy Idle.fbx
+[2019.02.18-08.29.38:605][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.18-08.29.51:553][354]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(0) Hips
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(1) Spine
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(2) Spine1
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(3) Spine2
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(4) Neck
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(5) Head
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(8) LeftArm
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(10) LeftHand
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(11) RightShoulder
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(12) RightArm
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(13) RightForeArm
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(14) RightHand
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(15) LeftUpLeg
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(16) LeftLeg
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(17) LeftFoot
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(18) LeftToeBase
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(19) LeftToe_End
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(20) RightUpLeg
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(21) RightLeg
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(22) RightFoot
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(23) RightToeBase
+[2019.02.18-08.29.51:571][354]LogFbx: SortedLinks :(24) RightToe_End
+[2019.02.18-08.29.51:572][354]LogFbx: Parsing AnimStack mixamo.com
+[2019.02.18-08.29.51:638][354]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Meshes/PaperMan/Animations/Happy_Idle.Happy_Idle
+[2019.02.18-08.29.51:639][354]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Happy_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.18-08.29.51:653][355]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Happy Walk.fbx)
+[2019.02.18-08.29.51:661][355]LogFbx: Loading FBX Scene from C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Happy Walk.fbx
+[2019.02.18-08.29.51:672][355]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.18-08.29.55:993][355]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(0) Hips
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(1) Spine
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(2) Spine1
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(3) Spine2
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(4) Neck
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(5) Head
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(8) LeftArm
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(10) LeftHand
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(11) RightShoulder
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(12) RightArm
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(13) RightForeArm
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(14) RightHand
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(15) LeftUpLeg
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(16) LeftLeg
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(17) LeftFoot
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(18) LeftToeBase
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(19) LeftToe_End
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(20) RightUpLeg
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(21) RightLeg
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(22) RightFoot
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(23) RightToeBase
+[2019.02.18-08.29.56:012][355]LogFbx: SortedLinks :(24) RightToe_End
+[2019.02.18-08.29.56:012][355]LogFbx: Parsing AnimStack mixamo.com
+[2019.02.18-08.29.56:044][355]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Meshes/PaperMan/Animations/Happy_Walk.Happy_Walk
+[2019.02.18-08.29.56:044][355]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Happy_Walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.18-08.29.56:058][356]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Run Forward.fbx)
+[2019.02.18-08.29.56:065][356]LogFbx: Loading FBX Scene from C:/Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Run Forward.fbx
+[2019.02.18-08.29.56:076][356]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.18-08.29.59:900][356]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(0) Hips
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(1) Spine
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(2) Spine1
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(3) Spine2
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(4) Neck
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(5) Head
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(8) LeftArm
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(10) LeftHand
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(11) RightShoulder
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(12) RightArm
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(13) RightForeArm
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(14) RightHand
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(15) LeftUpLeg
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(16) LeftLeg
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(17) LeftFoot
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(18) LeftToeBase
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(19) LeftToe_End
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(20) RightUpLeg
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(21) RightLeg
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(22) RightFoot
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(23) RightToeBase
+[2019.02.18-08.29.59:919][356]LogFbx: SortedLinks :(24) RightToe_End
+[2019.02.18-08.29.59:919][356]LogFbx: Parsing AnimStack mixamo.com
+[2019.02.18-08.29.59:944][356]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Meshes/PaperMan/Animations/Run_Forward.Run_Forward
+[2019.02.18-08.29.59:944][356]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.18-08.30.00:118][357]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/PAPERMAN1thin80A6077248C4974A25BF5C8F80F9C1F3.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/PAPERMAN1thin.uasset'
+[2019.02.18-08.30.00:163][357]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Happy_Idle778C72DD4AC3C281903765A018CB2D9F.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Happy_Idle.uasset'
+[2019.02.18-08.30.00:211][357]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Happy_Walk6A4968384D581D9CE654EE98A3DEE9DD.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Happy_Walk.uasset'
+[2019.02.18-08.30.00:254][357]LogSavePackage: Moving '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Saved/Run_ForwardB97A37D64BB101730228C09881BB23FE.tmp' to '../../../../../../Users/Urban/Documents/GitHub/UnrealTestI/GENESIS/Content/Geometry/Meshes/PaperMan/Animations/Run_Forward.uasset'
+[2019.02.18-08.30.03:274][710]AssetReimport: Importing new asset /Game/Geometry/Meshes/PaperMan/PAPERMAN1thin.
+[2019.02.18-08.30.03:274][710]AssetReimport: Importing new asset /Game/Geometry/Meshes/PaperMan/Animations/Happy_Idle.
+[2019.02.18-08.30.03:274][710]AssetReimport: Importing new asset /Game/Geometry/Meshes/PaperMan/Animations/Happy_Walk.
+[2019.02.18-08.30.03:274][710]AssetReimport: Importing new asset /Game/Geometry/Meshes/PaperMan/Animations/Run_Forward.
